@@ -6,7 +6,7 @@
 - 👯 I’m looking forward to collaborating on a commercial programe
 - 🤔 I’m looking for help with a good internship
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="garfieldz.cn" />MY BOLG<a> 
+- 📫 How to reach me: <a href="http://garfieldz.cn" />MY BOLG<a> 
 - ⚡ Fun fact: Badminton
 
 ![Garfield's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garfield-0927&layout=compact&hide_border=true&langs_count=10)
